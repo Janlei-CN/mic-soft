@@ -1,0 +1,3 @@
+dependencies {
+    implementation group: 'io.github.ljwlgl', name: 'common-util', version: '2.1.0'
+}

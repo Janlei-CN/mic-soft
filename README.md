@@ -1,0 +1,11 @@
+# Mic-Soft
+> mic-soft学习微服务的一个项目
+## 组件
+- mic-common
+- mic-config
+- mic-log
+- mic-monitor
+- mic-service
+- mic-util
+- mic-task
+- mic-web

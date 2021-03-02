@@ -1,0 +1,10 @@
+rootProject.name = 'mic-soft'
+include('mic-config')
+include('mic-service')
+include('mic-task')
+include('mic-monitor')
+include('mic-util')
+include('mic-common')
+include('mic-log')
+include 'mic-web'
+
